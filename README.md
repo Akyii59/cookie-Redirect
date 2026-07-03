@@ -50,7 +50,7 @@ struct Config
 
 1. Open `cookie-redirect.sln` in Visual Studio 2022
 2. Build **Release x64**
-3. Inject `cookie-redirect.dll` into `FortniteClient-Win64-Shipping.exe`
+3. Inject `cookie-redirect.dll` into `FortniteClient-Win64-Shipping.exe` aka use a launcher that has injections like rebootlauncher
 
 ## Credits
 
