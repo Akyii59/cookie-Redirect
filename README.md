@@ -1,5 +1,5 @@
 # Cookie Redirect
-
+works from chapter 1 all the way to chapter 5 adding support for 6
 **Fortnite SSL Bypass / Redirect — made by Akyi**
 
 Universal redirect/SSL bypass for Unreal Engine 4/5 games using native HTTP. Works with OGFN and other Fortnite private servers.
